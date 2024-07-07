@@ -1,0 +1,27 @@
+[
+    {
+        "name": "list",
+        "urn": "iam-list",
+        "displayName": "IAM List"
+    },
+    {
+        "name": "read",
+        "urn": "iam-read",
+        "displayName": "IAM Read"
+    },
+    {
+        "name": "create",
+        "urn": "iam-create",
+        "displayName": "IAM Create"
+    },
+    {
+        "name": "update",
+        "urn": "iam-update",
+        "displayName": "IAM Update"
+    },
+    {
+        "name": "delete",
+        "urn": "iam-delte",
+        "displayName": "IAM Delete"
+    }
+]
