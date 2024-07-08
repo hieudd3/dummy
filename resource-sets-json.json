@@ -20,7 +20,7 @@
         "displayName": "IAM Update"
     },
     {
-        "name": "qa-mock-delte",
+        "name": "qa-mock-delete",
         "urn": "iam-delte",
         "displayName": "IAM Delete"
     }
