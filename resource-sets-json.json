@@ -1,26 +1,26 @@
 [
     {
-        "name": "iam-list",
+        "name": "qa-mock-list",
         "urn": "iam-list",
         "displayName": "IAM List"
     },
     {
-        "name": "iam-read",
+        "name": "qa-mock-read",
         "urn": "iam-read",
         "displayName": "IAM Read"
     },
     {
-        "name": "iam-create",
-        "urn": "iam-create",
+        "name": "qa-mock-create",
+        "urn": "qa-mock-create",
         "displayName": "IAM Create"
     },
     {
-        "name": "iam-update",
+        "name": "qa-mock-update",
         "urn": "iam-update",
         "displayName": "IAM Update"
     },
     {
-        "name": "iam-delte",
+        "name": "qa-mock-delte",
         "urn": "iam-delte",
         "displayName": "IAM Delete"
     }
