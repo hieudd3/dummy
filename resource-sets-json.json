@@ -21,7 +21,7 @@
     },
     {
         "name": "qa-mock-delete",
-        "urn": "iam-delte",
+        "urn": "iam-delete",
         "displayName": "IAM Delete"
     }
 ]
